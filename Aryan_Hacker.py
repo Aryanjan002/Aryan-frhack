@@ -57,7 +57,7 @@ banner2 = """%s
     |   [__)\__.[  (_](_.| \(/,[
                %s v2.0 %s -  
     =====[ Facebook Cracker ]=====
-         %s By Mr.KaitoX %s 
+         %s By Mr.Aryan %s 
 """%(R,Y,V,G,N)
 
 banner = """%s
@@ -183,7 +183,7 @@ def menu():
 
     os.system('clear')
     print banner
-    print V+' Welcome'+N+' [ '+ G + nama + N+ ' ] '
+    print V+' Welcome'+N+' [ '+ G + Aryan + N+ ' ] '
     print R+15 * '-'+G+'[ \033[1;97mMenu'+N+G+' ]'+R+ 15* '-'+N
     print W + ' 1.' + G + ' Start Cracking'
     print W + ' 2.' + G + ' Dump Group ID\'s'
