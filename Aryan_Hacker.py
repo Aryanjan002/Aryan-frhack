@@ -183,7 +183,7 @@ def menu():
 
     os.system('clear')
     print banner
-    print V+' Welcome'+N+' [ '+ G + Aryan + N+ ' ] '
+    print V+' Welcome'+N+' [ '+ G + Name + N+ ' ] '
     print R+15 * '-'+G+'[ \033[1;97mMenu'+N+G+' ]'+R+ 15* '-'+N
     print W + ' 1.' + G + ' Start Cracking'
     print W + ' 2.' + G + ' Dump Group ID\'s'
